@@ -121,11 +121,11 @@
           "$time_each_hour"
         ],
         "voices": [
-          "time_each_hour_01.mp3",
-          "time_each_hour_02.mp3",
-          "time_each_hour_03.mp3",
-          "time_each_hour_04.mp3",
-          "time_each_hour_05.mp3"
+          "time_each_hous_01.mp3",
+          "time_each_hours_02.mp3",
+          "time_each_hours_03.mp3",
+          "time_each_hours_04.mp3",
+          "time_each_hours_05.mp3"
         ]
       }
     ]
