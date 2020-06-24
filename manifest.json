@@ -61,16 +61,7 @@
           "fuck_02.mp3"
         ]
       },
-      {
-        "keywords": [
-          "catch"
-        ],
-        "voices": [
-          "catch_01.mp3",
-          "catch_02.mp3",
-          "catch_03.mp3"
-        ]
-      },
+
       {
         "keywords": [
           "import"
@@ -80,14 +71,7 @@
           "import_02.mp3"
         ]
       },
-      {
-        "keywords": [
-          "v-html"
-        ],
-        "voices": [
-          "v_html_01.mp3"
-        ]
-      },
+
       {
         "keywords": [
           "$time_morning"

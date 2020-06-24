@@ -6,16 +6,12 @@
 
 总有一天会有喜欢比企谷君的昆虫出现吧(
 
-## Preview
 
-![kugimiya](./preview/Kugimiya-preview.png)
-
-![kugimiya](./preview/Kugimiya-preview-dark.png)
 
 
 ## Install
 
-从[本仓库](https://github.com/zthxxx/kugimiya-rainbow-fart/) clone 后自己打包，或者直接在 [Releases](https://github.com/zthxxx/kugimiya-rainbow-fart/releases) 中下载最新版
+从[本仓库](https://github.com/ydPro-G/yk) clone 后自己打包，或者直接在 [Releases](https://github.com/zthxxx/kugimiya-rainbow-fart/releases) 中下载最新版
 
 ## Contribute
 
