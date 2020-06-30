@@ -121,7 +121,7 @@
           "$time_each_hour"
         ],
         "voices": [
-          "time_each_hous_01.mp3",
+          "time_each_hours_01.mp3",
           "time_each_hours_02.mp3",
           "time_each_hours_03.mp3",
           "time_each_hours_04.mp3",
